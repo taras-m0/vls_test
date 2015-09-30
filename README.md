@@ -52,4 +52,7 @@ For example:
 **For PRO:**
 if you feel that this task is too easy for you - show the same directions in two languages, English and Russian.
 
+# DOUBLEKILL
+
+You can double your score if you solve all three problems using Laravel Framework.
 
